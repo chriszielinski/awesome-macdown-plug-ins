@@ -1,5 +1,10 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/chriszielinski/awesome-macdown-plug-ins/master/.readme-assets/header.png" alt="Header">
+    <img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
+    <a href="https://travis-ci.org/chriszielinski/awesome-macdown-plug-ins" style="text-decoration:none;">
+        <img alt="Build Status" src="https://travis-ci.org/chriszielinski/awesome-macdown-plug-ins.svg?branch=master" />
+    </a>
+    <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
 </p>
 
 About
