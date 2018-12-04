@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/chriszielinski/awesome-macdown-plug-ins/master/.readme-assets/header.png" alt="Header">
     <img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
     <a href="https://travis-ci.org/chriszielinski/awesome-macdown-plug-ins" style="text-decoration:none;">
-        <img alt="Build Status" src="https://travis-ci.org/chriszielinski/awesome-macdown-plug-ins.svg?branch=master" />
+        <img alt="Build Status" src="https://api.travis-ci.org/chriszielinski/awesome-macdown-plug-ins.svg?branch=master" />
     </a>
     <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
 </p>
@@ -56,7 +56,7 @@ Getting Started
 
  - [MacDown Plug-In Architecture](https://github.com/MacDownApp/macdown-gistit#the-macdown-plug-in-architecture) — Simple walkthrough on how MacDown plug-ins work, until proper documentation is written.
  - [Gist It!](https://github.com/MacDownApp/macdown-gistit) — Basic example of an Objective-C plug-in that uploads the current document (if available) as a public GitHub Gist.
- - [MacDown Swift Plug-In](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/OOP_ObjC/Introduction/Introduction.html) — An Xcode-template & guide to creating your own Swift MacDown plug-in.
+ - [MacDown Swift Plug-In](https://github.com/chriszielinski/MacDown-Swift-Plug-In) — An Xcode-template & guide to creating your own Swift MacDown plug-in.
 
 
 Contributing and License
