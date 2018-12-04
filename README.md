@@ -43,6 +43,8 @@ Convenience
 
 *Ease your MacDown experience*
 
+ - [Thesi](https://github.com/chriszielinski/Thesi) 🧝‍♀️ — A plugin that formats your headings and offers shorthand syntax for callouts, images, and links.
+
 
 Development
 ===========
